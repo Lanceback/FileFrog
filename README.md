@@ -1,6 +1,6 @@
 # FileFrog
 Searches for folders in the current Directory and 'hops' into whichever it chooses. 
-If it doesn't see a folder, it will instead 'hop' upwards. 
+If it doesn't see a folder, it will instead 'hop' upwards. Nothing super exciting, I know.
 
 ## Why?
 Just for fun.
